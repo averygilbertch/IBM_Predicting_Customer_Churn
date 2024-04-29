@@ -1,6 +1,6 @@
 # IBM_Predicting_Customer_Churn
 Final project for I310D: Introduction to Human-Centered Data Science. \
-Affiliated Members: Itzhak Estrella, Avery Gilbert, Vanessa Medrano & Lucy Schilling.
+**Affiliated Members**: Itzhak Estrella, Avery Gilbert, Vanessa Medrano & Lucy Schilling.
 
 ### Data Feature Table
 | Feature           | Description                                                                                                           | Data Type |
